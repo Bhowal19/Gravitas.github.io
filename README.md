@@ -1,8 +1,8 @@
 ## Welcome to the website on GRAVITAS
 
-You can use the [editor on GitHub](https://github.com/Bhowal19/Gravitasbhowal.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+WE'LL BE MAKING AN INFORMATIVE WEBSITE USING HTLM , CSS AND LITTLE BIT OG JAVASCRIPT
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We have to make an informative website using github has our host.
 
 ### Markdown
 
