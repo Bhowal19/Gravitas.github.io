@@ -1,12 +1,12 @@
 ## Welcome to the website on GRAVITAS
 
-WE'LL BE MAKING AN INFORMATIVE WEBSITE USING HTLM , CSS AND LITTLE BIT OG JAVASCRIPT
+WE'LL BE MAKING AN INFORMATIVE WEBSITE USING HTLM , CSS AND LITTLE BIT OF JAVASCRIPT
 
 We have to make an informative website using github has our host.
 
-### Markdown
+### We'll be giving you the links.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+links to learn css and javascript in order to make a responsive website
 
 ```markdown
 Syntax highlighted code block
